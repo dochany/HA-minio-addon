@@ -20,5 +20,11 @@
     "MINIO_ROOT_PASSWORD": "ust8898865"
   },
   "options": {},
-  "schema": {}
+  "schema": {},
+  "args": [
+  "server",
+  "/data",
+  "--console-address",
+  ":9001"
+]
 }
