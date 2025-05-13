@@ -8,6 +8,7 @@
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:9001]",
   "ingress": true,
+  "ingress_port": 9001,
   "panel_icon": "mdi:database",       
   "panel_title": "MinIO",         
   "ports": {
