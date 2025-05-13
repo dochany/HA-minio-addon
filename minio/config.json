@@ -4,7 +4,6 @@
   "slug": "minio",
   "description": "S3-compatible object storage powered by MinIO",
   "arch": ["armv7", "aarch64", "amd64"],
-  "homeassistant": "2023.12.0",
   "startup": "services",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:9001]",
@@ -13,7 +12,7 @@
   "panel_icon": "mdi:database",
   "panel_title": "MinIO",
   "panel_path": "minio",
-  "panel_admin": false,
+  "panel_admin": true,
   "ports": {
     "9000/tcp": 9000,
     "9001/tcp": 9001
