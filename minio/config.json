@@ -4,7 +4,6 @@
   "slug": "minio",
   "description": "S3-compatible object storage powered by MinIO",
   "arch": ["armv7", "aarch64", "amd64"],
-  "homeassistant": "2023.12.0",
   "startup": "services",
   "boot": "auto",
   "webui": "http://[HOST]:[PORT:9001]",
