@@ -22,7 +22,7 @@
   },
   "options": {},
   "schema": {},
-   "image": "minio/minio:latest",
+  "image": "minio/minio:latest",
   "args": [
     "server",
     "/data",
