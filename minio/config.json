@@ -8,7 +8,7 @@
   "boot": "auto",
   "ingress": true,
   "ingress_port": 9001,
-  "ingress_entry": "/",
+  "ingress_entry": "/minio",
   "panel_icon": "mdi:database",
   "panel_title": "MinIO",
   "ports": {
