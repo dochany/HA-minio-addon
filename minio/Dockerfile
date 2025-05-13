@@ -1,3 +1,4 @@
-FROM minio/minio:RELEASE.2024-02-25T01-54-04Z
+FROM minio/minio:RELEASE.2020-11-25T22-36-25Z-arm64
+
 
 CMD ["server", "/data", "--console-address", ":9001"]
