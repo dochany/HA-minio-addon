@@ -20,17 +20,6 @@
     "MINIO_ROOT_USER": "admin",
     "MINIO_ROOT_PASSWORD": "ust8898865"
   },
-  "map": [
-    "config:rw",
-    "data:rw"
-  ],
   "options": {},
-  "schema": {},
-  "image": "minio/minio:latest",
-  "args": [
-    "server",
-    "/data",
-    "--console-address",
-    ":9001"
-  ]
+  "schema": {}
 }
