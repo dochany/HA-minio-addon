@@ -1,3 +1,3 @@
-FROM minio/minio:RELEASE.2023-12-09T03-22-29Z
+FROM minio/minio:RELEASE.2024-04-06T05-26-02Z
 
 CMD ["server", "/data", "--console-address", ":9001"]
