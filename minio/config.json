@@ -1,6 +1,6 @@
 {
   "name": "MinIO",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "slug": "minio",
   "description": "S3-compatible object storage powered by MinIO",
   "arch": ["armv7", "aarch64", "amd64"],
