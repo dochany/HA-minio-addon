@@ -9,7 +9,7 @@
   "webui": "http://[HOST]:[PORT:9001]",
   "ingress": true,
   "panel_icon": "mdi:database",       
-  "panel_title": "MinIO"         
+  "panel_title": "MinIO",         
   "ports": {
     "9000/tcp": 9000,
     "9001/tcp": 9001
